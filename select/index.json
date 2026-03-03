@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛が痛かった(instrumental)",
+  "base_artist": "≒JOY",
+  "createdAt": "2026-03-03T10:37:13.998901Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛が痛かった",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/pl_01_愛が痛かった_≒JOY.txt"
+    }
+  ]
+}
